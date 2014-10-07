@@ -1,0 +1,23 @@
+{
+  "author": "wondible",
+  "build": "73441",
+  "category": ["in-game", "ui"],
+  "context": "client",
+  "date": "2014/10/06",
+  "description": "Adds a key binding to self destruct units without confirmation.",
+  "display_name": "Fast Delete",
+  "forum": null,
+  "identifier": "com.wondible.pa.fast_delete",
+  "priority": 100,
+  "scenes": {
+    "global_mod_list": [
+      "coui://ui/mods/fast_delete/keybinds.js"
+    ],
+    "live_game": [
+      "coui://ui/mods/fast_delete/live_game.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "1.0.0"
+}
+
