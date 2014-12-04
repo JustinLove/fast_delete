@@ -4,3 +4,5 @@ model.fastDelete = function() {
 
   api.unit.selfDestruct();
 }
+
+api.Panel.message('', 'inputmap.reload');
