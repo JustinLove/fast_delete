@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "75740",
+  "build": "86422",
   "category": ["in-game", "ui"],
   "context": "client",
-  "date": "2014/12/04",
+  "date": "2015/08/20",
   "description": "Adds a key binding to self destruct units without confirmation.",
   "display_name": "Fast Delete",
   "forum": "https://forums.uberent.com/threads/rel-fast-delete.64938/",
@@ -18,6 +18,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
 
